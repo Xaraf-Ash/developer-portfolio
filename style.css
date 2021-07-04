@@ -10,13 +10,14 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
     padding-left: 5%;
 }
 .half-width image{
-    width: 80%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
@@ -30,3 +31,27 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-width image{
+    width: 50%;
+}
+.half-width{
+    width: 52%;
+    padding-left: 5%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color:purple turquoise ;
+    font-weight: 700;
+    border-radius: 15px;
+    
+}
+.mid-night{
+    color: orange
+}
+  
